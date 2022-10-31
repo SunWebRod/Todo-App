@@ -1,0 +1,22 @@
+.theme {
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(39,38,40,0.4);
+}
+
+body {
+    background-color: #fff;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .note {
+    background-color: #b5b5b5;
+    padding: 16px;
+    margin: 8px;
+    border-radius: 5px;
+    height: 300px;
+    width: 240px;
+    box-shadow: 2px 2px 5px 2px lightgray;
+    font-family: 'Amatic SC', cursive;
+    font-size: 23px;
+    font-weight: 400;
+  }
